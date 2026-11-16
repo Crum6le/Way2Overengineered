@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PersonalCreations") (type "KiCad") (uri "/home/crum6le/Documents/kicad_addons/PersonalCreations.pretty") (options "") (descr ""))
+	(lib (name "PersonalCreations") (type "KiCad") (uri "/home/crum6le/Documents/kicad_addons/PersonalCreations.pretty") (options "") (descr ""))
+	(lib (name "_Connector_RJ") (type "KiCad") (uri "${KIPRJMOD}/_Connector_RJ.pretty") (options "") (descr ""))
+	(lib (name "_Converter_DCDC") (type "KiCad") (uri "${KIPRJMOD}/_Converter_DCDC.pretty") (options "") (descr ""))
+)
