@@ -2031,6 +2031,10 @@
 		(at 140.97 62.23)
 		(uuid "5cfe1d92-eb01-4da0-9245-d57fc830a4b9")
 	)
+	(no_connect
+		(at 78.74 85.09)
+		(uuid "80bccaef-28a9-47ce-8269-68ae153cf74b")
+	)
 	(wire
 		(pts
 			(xy 102.87 38.1) (xy 111.76 38.1)
@@ -3138,7 +3142,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100R"
 			(at 142.24 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3148,7 +3152,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 142.24 77.978 90)
 			(hide yes)
 			(show_name no)
@@ -3159,7 +3163,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25076.pdf"
 			(at 142.24 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3172,6 +3176,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 142.24 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC_PartNumber" "C25076"
+			(at 142.24 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3525,7 +3540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 132.08 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3559,6 +3574,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC_PartNumber" "  C2286"
 			(at 132.08 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3659,7 +3685,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 132.08 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3693,6 +3719,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC_PartNumber" "  C2286"
 			(at 132.08 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3906,7 +3943,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100R"
 			(at 142.24 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3916,7 +3953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 142.24 72.898 90)
 			(hide yes)
 			(show_name no)
@@ -3927,7 +3964,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25076.pdf"
 			(at 142.24 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -3940,6 +3977,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 142.24 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC_PartNumber" "C25076"
+			(at 142.24 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4042,7 +4090,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" ""
 			(at 109.982 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -4168,7 +4216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" ""
 			(at 87.122 33.02 90)
 			(hide yes)
 			(show_name no)

@@ -7378,6 +7378,17 @@
 				)
 			)
 		)
+		(property "LCSC_PartNumber" "C910370"
+			(at 81.28 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "R2"
 			(uuid "8f1d4575-03c5-4ec7-992b-27c7e4bb73e2")
 		)
@@ -9740,7 +9751,7 @@
 				)
 			)
 		)
-		(property "LCSC_Partnummber" "C1525"
+		(property "LCSC_PartNumber" "C1525"
 			(at 93.98 115.57 0)
 			(hide yes)
 			(show_name no)
