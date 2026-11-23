@@ -4095,6 +4095,26 @@
 		)
 		(uuid "810688ac-243b-4bc8-8adc-f66c6032cd57")
 	)
+	(text_box "Man kann hier eventuell den anderen quarz nehmen und auf 25mhz tunen"
+		(exclude_from_sim no)
+		(at 184.15 45.72 0)
+		(size 25.4 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "ba363944-1ba0-4348-a369-707f3e84b944")
+	)
 	(junction
 		(at 139.7 143.51)
 		(diameter 0)
@@ -6690,7 +6710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18p"
+		(property "Value" "-"
 			(at 180.848 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6932,7 +6952,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18p"
+		(property "Value" "-"
 			(at 161.798 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9014,7 +9034,7 @@
 		(fields_autoplaced yes)
 		(uuid "b88fe950-0429-4644-9cd5-36fd72e17eb8")
 		(property "Reference" "R14"
-			(at 173.99 73.66 90)
+			(at 173.99 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9024,7 +9044,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 173.99 76.2 90)
+			(at 173.99 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9089,7 +9109,7 @@
 			)
 		)
 		(property "Sim.Device" "R"
-			(at 173.99 78.74 0)
+			(at 173.99 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9098,7 +9118,7 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=+ 2=-"
+		(property "Sim.Pins" ""
 			(at 173.99 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
